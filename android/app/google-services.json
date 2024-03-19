@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753156639621",
+    "project_id": "sadsa-oa0dvp",
+    "storage_bucket": "sadsa-oa0dvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753156639621:android:9796803241efe7405112ec",
+        "android_client_info": {
+          "package_name": "com.mycompany.replicatedrawingdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu6g0XIHpOHiKb5pK56HiuTj-2sINoFjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

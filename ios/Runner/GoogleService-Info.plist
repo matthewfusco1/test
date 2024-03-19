@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC41b8L07B3WMfJrwPXD0scOWh9YD5AyFE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>753156639621</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.replicatedrawingdemo</string>
+	<key>PROJECT_ID</key>
+	<string>sadsa-oa0dvp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sadsa-oa0dvp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:753156639621:ios:af294746363e31f75112ec</string>
+</dict>
+</plist>
